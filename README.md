@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]
+    **1.** Create a _[customer performance report] (https://github.com/darshu399/Advanced-MS-excel-Projects/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/darshu399/Advanced-MS-excel-Projects/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,14 +19,14 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/darshu399/Advanced-MS-excel-Projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/darshu399/Advanced-MS-excel-Projects/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analysing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organisation's financial outlook.
 
 
 ## Technical & Soft Skills:
